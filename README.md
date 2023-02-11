@@ -1,4 +1,4 @@
-# HectorSalamankaBinarySearch
+# HectorSalamancaBinarySearch
 #### Are you tired of that the nurse is looking for letters from alphabet board for a long time?  :triumph::triumph::triumph: ![Hector_Salamanca](https://user-images.githubusercontent.com/37997577/218276865-bd89298d-bc5f-416f-903a-57c7de959570.jpg)
 
 ### Daamn... :disappointed:
